@@ -20,3 +20,11 @@ Questions:
  6) Relation Between age and Gender based On Number?
  7) Which Channel is Contributing to maximum sales?
  8) Highest selling Category?
+
+
+Insights After Analysing data
+1) Women are more likely to buy compard to men (~ 65%)
+2) Maharashtra , Karnataka and Uttar Pradesh are top 3 States (~35%)
+3) Adult age group (30-49 yrs) is max contributing (~50%)
+4) Amazon , Flipkart and Myntra Channels are max contributing (~80%)
+   
