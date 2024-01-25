@@ -22,7 +22,7 @@ Questions:
  8) Highest selling Category?
 
 
-Insights After Analysing data
+Insights After Analysing the data
 1) Women are more likely to buy compard to men (~ 65%)
 2) Maharashtra , Karnataka and Uttar Pradesh are top 3 States (~35%)
 3) Adult age group (30-49 yrs) is max contributing (~50%)
